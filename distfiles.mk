@@ -112,6 +112,7 @@ DISTFILES =	.gitignore \
 	config/aeotec/zwa005.xml \
 	config/aeotec/zwa006.xml \
 	config/aeotec/zwa008.xml \
+	config/aeotec/zwa009.xml \
 	config/aeotec/zwa012.xml \
 	config/aeotec/zwa019.xml \
 	config/aeotec/zwa021.xml \
@@ -474,6 +475,7 @@ DISTFILES =	.gitignore \
 	config/images/aeotec/zwa004.png \
 	config/images/aeotec/zwa005.png \
 	config/images/aeotec/zwa006.png \
+	config/images/aeotec/zwa009.png \
 	config/images/aeotec/zwa012.png \
 	config/images/aeotec/zwa019.png \
 	config/images/aeotec/zwa021.png \
@@ -740,6 +742,7 @@ DISTFILES =	.gitignore \
 	config/images/miyakawaelectric/me-d101.png \
 	config/images/namron/1402756.png \
 	config/images/nexia/db100z.png \
+	config/images/nexia/th100nx.png \
 	config/images/nodon/asp3100SmartPlug.png \
 	config/images/nodon/crc3100OctanRemote.png \
 	config/images/nodon/crc360xSofremote.png \
@@ -1026,6 +1029,7 @@ DISTFILES =	.gitignore \
 	config/miyakawaelectric/me-d101.xml \
 	config/namron/1402756.xml \
 	config/nexia/db100z.xml \
+	config/nexia/th100nx.xml \
 	config/nodon/asp3100SmartPlug.xml \
 	config/nodon/crc3100OctanRemote.xml \
 	config/nodon/crc360xSofremote.xml \
